@@ -10,3 +10,7 @@ Here are the Smart Contracts we used at Coinstruct (Beta!):
   - This defines the InvestorRegistry contract, which is an implementation of the AddressRegistry interface.
 - CrowdFunding.sol
   - This defines the main contract for a crowdfunding campaign.
+
+Here is the State Diagram for Campaign:
+
+[![Coinstruct - State Diagram for Campaign](https://cloud.githubusercontent.com/assets/23185823/22584179/f44f83da-ea2b-11e6-8562-014daeb0b405.png)](https://cloud.githubusercontent.com/assets/23185823/22584179/f44f83da-ea2b-11e6-8562-014daeb0b405.png)
