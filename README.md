@@ -1,6 +1,6 @@
 # [![Coinstruct](https://cloud.githubusercontent.com/assets/23185823/22582682/2c976a22-ea23-11e6-939e-3343d1d39de1.png)](http://www.coinstruct.com/)
 
-Here are the Smart Contracts we used at Coinstruct (Beta!):
+## Smart Contracts We Used at Coinstruct (Beta!):
 
 - Token.sol
   - This defines the same Token interface as found in the standard library.
@@ -11,6 +11,6 @@ Here are the Smart Contracts we used at Coinstruct (Beta!):
 - CrowdFunding.sol
   - This defines the main contract for a crowdfunding campaign.
 
-Here is the State Diagram for Campaign:
+## State Diagram for Campaign:
 
 [![Coinstruct - State Diagram for Campaign](https://cloud.githubusercontent.com/assets/23185823/22584179/f44f83da-ea2b-11e6-8562-014daeb0b405.png)](https://cloud.githubusercontent.com/assets/23185823/22584179/f44f83da-ea2b-11e6-8562-014daeb0b405.png)
